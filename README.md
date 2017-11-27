@@ -1,2 +1,2 @@
 # WebsiteBlocker
-This is a website blocker in python
+This is a time based website blocker in python.
